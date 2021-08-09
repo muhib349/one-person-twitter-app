@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708465002113",
+    "project_id": "onepersontwitterapp",
+    "storage_bucket": "onepersontwitterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708465002113:android:e6cf247fb64cebb4782f80",
+        "android_client_info": {
+          "package_name": "com.example.one_person_twitter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708465002113-bnemdbdnf0tsb86dp4s3crbkp5dqqlpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBtweTAGkozQCpJAMGpJ_SB4ASRApm-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708465002113-bnemdbdnf0tsb86dp4s3crbkp5dqqlpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
