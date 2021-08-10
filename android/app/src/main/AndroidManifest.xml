@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.one_person_twitter_app">
    <application
-        android:label="one_person_twitter_app"
+        android:label="Twitter App"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

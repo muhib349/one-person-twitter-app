@@ -63,7 +63,7 @@ class AddTweetScreen extends StatelessWidget {
                       ));
                     }
                   },
-                  child: Text("Add Tweet"),
+                  child: Text(tweet != null ? "Update Tweet":"Add Tweet"),
                   style: ButtonStyle(
                     textStyle: MaterialStateProperty.all(TextStyle(
                       fontSize: 16

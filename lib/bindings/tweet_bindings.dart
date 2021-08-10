@@ -7,8 +7,6 @@ import 'package:one_person_twitter_app/repositories/tweet_repository.dart';
 class TweetBindings extends Bindings{
   @override
   void dependencies() {
-    Get.put(() => AuthRepository());
-    Get.put(() => AuthController());
     Get.lazyPut(() => TweetRepository());
     Get.lazyPut(() => TweetController());
   }

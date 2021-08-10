@@ -13,12 +13,8 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final formKey = GlobalKey<FormState>();
     final controller = Get.find<AuthController>();
-    final emailController = TextEditingController(
-      text: "muhibgazi@gmail.com"
-    );
-    final passwordController = TextEditingController(
-      text: "12345678"
-    );
+    final emailController = TextEditingController();
+    final passwordController = TextEditingController();
     return SafeArea(
       child: Scaffold(
         body: Form(
