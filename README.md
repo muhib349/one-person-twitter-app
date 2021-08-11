@@ -1,11 +1,11 @@
 # One Person Twitter App
 
 1-person Twitter is **flutter framework** based mobile app using **Firebase Auth** and **Cloude Firestore**. This app has following features.
-* Authentication(Signin & Signup) is done using Firebase Auth.\
-* User is also stored in Cloud Firestore.\
-* User can create, update, delete and fetch all data.\
+* Authentication(Signin & Signup) is done using Firebase Auth.
+* User is also stored in Cloud Firestore.
+* User can create, update, delete and fetch all data.
 * All tweets are fetched order by latest time.
-* App data is update in realtime when data is changed in firestore.\
+* App data is update in realtime when data is changed in firestore.
 * GetX is used for state management.
 * Code separation is handled beautifully.
 
